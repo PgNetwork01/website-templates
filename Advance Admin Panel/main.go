@@ -10,6 +10,7 @@ import (
 	"github.com/wellington/go-libsass"
 )
 
+
 func compileSCSS() (string, error) {
 	// SCSS file path
 	scssFile := "style.scss"
